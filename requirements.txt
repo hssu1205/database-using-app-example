@@ -1,1 +1,6 @@
 streamlit
+firebase-admin
+streamlit-drawable-canvas
+Pillow
+plotly
+pandas
